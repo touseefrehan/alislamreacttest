@@ -1,0 +1,30 @@
+{
+    "title": "List of alislam react apps to be made",
+    "apps": [
+        {
+            "name": "Friday Sermon",
+            "desc": "An application that provides Friday sermons in various languages",
+            "icon": ""
+        },
+        {
+            "name": "Adhan",
+            "desc": "An application that provides Salat timings",
+            "icon": ""
+        },
+        {
+            "name": "Books",
+            "desc": "An application that provides a book reader",
+            "icon": ""
+        },
+        {
+            "name": "Holy Quran",
+            "desc": "An application that Holy Quran reading and searching capabilities",
+            "icon": ""
+        },
+        {
+            "name": "Ask Islam",
+            "desc": "An application that provides Questions and Answers",
+            "icon": ""
+        }
+    ]
+}
